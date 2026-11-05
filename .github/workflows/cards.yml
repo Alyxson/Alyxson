@@ -1,7 +1,7 @@
 name: Update profile cards
 
 # Stats cards rendered here and committed to the repo, so the README never depends on a public instance
-# (github-readme-stats.vercel.app was deprecated on 2026-06-30). One light and one dark version of each card.
+# (github-readme-stats.vercel.app was deprecated on 2026-06-30). Black and white, one version per theme.
 on:
   schedule:
     - cron: "0 6 * * *"
@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=1d3557&icon_color=457b9d&text_color=1d3557&ring_color=457b9d
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -29,26 +29,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=a8dadc&icon_color=6fa8d6&text_color=f1faee&ring_color=a8dadc
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Top languages (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1d3557&text_color=1d3557
-          path: profile/langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Top languages (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=a8dadc&text_color=f1faee
-          path: profile/langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 

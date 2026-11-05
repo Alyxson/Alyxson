@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" aria-hidden="true">
-  <style>
-    .back { animation: drift 14s ease-in-out infinite alternate; }
-    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-120px); } }
-    @media (prefers-reduced-motion: reduce) { .back { animation: none; } }
-  </style>
-  <path class="back" fill="#457b9d" opacity=".55" d="M0 120H1320V40C1210 6 1100 66 990 44S770-4 660 30 440 74 330 44 110 0 0 34Z"/>
-  <path fill="#1d3557" d="M0 120H1200V62C1100 34 1000 78 900 58S700 18 600 46 400 84 300 62 100 26 0 54Z"/>
-</svg>
