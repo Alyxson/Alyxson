@@ -1,65 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=header"/>
-<div align="center">
-Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Alyxson here
-  <br></br>
-</div>
+<img src="assets/header.svg" width="100%" alt="Alyxson. Full-stack developer: TypeScript, React, Node.js.">
 
+<p align="center">
+  Full-stack developer from São Paulo, Brazil.<br>
+  I build web and mobile products end to end, from the Postgres schema to the screen, mostly in TypeScript.
+</p>
 
----
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1d3557?style=for-the-badge&logo=typescript&logoColor=a8dadc">
+  <img alt="React" src="https://img.shields.io/badge/React-1d3557?style=for-the-badge&logo=react&logoColor=a8dadc">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1d3557?style=for-the-badge&logo=nextdotjs&logoColor=a8dadc">
+  <img alt="React Native and Expo" src="https://img.shields.io/badge/Expo-1d3557?style=for-the-badge&logo=expo&logoColor=a8dadc">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1d3557?style=for-the-badge&logo=nodedotjs&logoColor=a8dadc">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1d3557?style=for-the-badge&logo=postgresql&logoColor=a8dadc">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1d3557?style=for-the-badge&logo=prisma&logoColor=a8dadc">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-1d3557?style=for-the-badge&logo=graphql&logoColor=a8dadc">
+</p>
 
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p> -->
+### Selected work
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyxsonMarques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyxsonMarques&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
- <!-- 🔭 I’m planning for a Project **(don't have a name yet)**. -->
- 
- <!-- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
- 
- <!-- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">, <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> and <img src="http://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white"/> -->
- <!--
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**. -->
- 
- <!-- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs). -->
-  
- <!--
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff. -->
+- [**soma**](https://github.com/Alyxson/soma): the system behind Soma, by Grupo VIR. Next.js, Prisma, Zod, Tailwind.
+- [**Url-Shortener**](https://github.com/Alyxson/Url-Shortener): a REST API to shorten links. TypeScript, Express, MongoDB, Jest.
+- [**Weather-GraphQL**](https://github.com/Alyxson/Weather-GraphQL): a weather GraphQL API with a Redis cache in front.
+- [**Task-Management-App**](https://github.com/Alyxson/Task-Management-App): tasks for people and teams. Express, PostgreSQL, Jest.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+    <img src="profile/stats-light.svg" height="170" alt="GitHub stats for Alyxson: stars, commits, pull requests, issues and contributions.">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/langs-dark.svg">
+    <img src="profile/langs-light.svg" height="170" alt="Most used languages in Alyxson's public repositories.">
+  </picture>
+</p>
 
-<!-- ![Profile views](https://gpvc.arturio.dev/AlyxsonMarques)  <img src="https://img.shields.io/github/followers/AlyxsonMarques?label=Follow" style=" float:left, margin-right:10px" /> -->
-
-
----
-
-<div align="center" border-style="none">
-Tech & Tools Preference
-  <br></br>
-</div>
-
-<div align="center" border-bottom="none">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br></br>
-<!-- <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-<!-- ### Other Languages I know -->
-<!-- <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C-%20&%20659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/alyxsonmarques) -->
-
-<!--### You can find in me in the web 🌍
-[<img align="left" alt="AlyxsonMarques | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>-->
-
-
----
-<!--### You can checkout my blogs :loudspeaker: 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d3557&height=120&section=footer"/>
+<img src="assets/footer.svg" width="100%" alt="">
